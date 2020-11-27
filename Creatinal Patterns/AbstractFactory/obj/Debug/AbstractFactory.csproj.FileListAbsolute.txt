@@ -1,0 +1,7 @@
+E:\C#\Solution1\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+E:\C#\Solution1\AbstractFactory\bin\Debug\AbstractFactory.exe
+E:\C#\Solution1\AbstractFactory\bin\Debug\AbstractFactory.pdb
+E:\C#\Solution1\AbstractFactory\obj\Debug\AbstractFactory.csprojAssemblyReference.cache
+E:\C#\Solution1\AbstractFactory\obj\Debug\AbstractFactory.csproj.CoreCompileInputs.cache
+E:\C#\Solution1\AbstractFactory\obj\Debug\AbstractFactory.exe
+E:\C#\Solution1\AbstractFactory\obj\Debug\AbstractFactory.pdb

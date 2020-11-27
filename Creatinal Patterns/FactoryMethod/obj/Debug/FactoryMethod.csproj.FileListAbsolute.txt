@@ -1,0 +1,6 @@
+E:\C#\Solution1\FactoryMethod4\bin\Debug\FactoryMethod4.exe.config
+E:\C#\Solution1\FactoryMethod4\bin\Debug\FactoryMethod4.exe
+E:\C#\Solution1\FactoryMethod4\bin\Debug\FactoryMethod4.pdb
+E:\C#\Solution1\FactoryMethod4\obj\Debug\FactoryMethod.csproj.CoreCompileInputs.cache
+E:\C#\Solution1\FactoryMethod4\obj\Debug\FactoryMethod4.exe
+E:\C#\Solution1\FactoryMethod4\obj\Debug\FactoryMethod4.pdb
