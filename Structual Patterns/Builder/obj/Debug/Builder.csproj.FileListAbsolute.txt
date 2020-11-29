@@ -1,0 +1,6 @@
+E:\C#\Solution1\Builder\bin\Debug\Builder.exe.config
+E:\C#\Solution1\Builder\bin\Debug\Builder.exe
+E:\C#\Solution1\Builder\bin\Debug\Builder.pdb
+E:\C#\Solution1\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache
+E:\C#\Solution1\Builder\obj\Debug\Builder.exe
+E:\C#\Solution1\Builder\obj\Debug\Builder.pdb

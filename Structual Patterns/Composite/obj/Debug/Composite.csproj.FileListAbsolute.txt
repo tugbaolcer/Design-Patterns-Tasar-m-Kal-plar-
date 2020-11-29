@@ -1,0 +1,7 @@
+E:\C#\Solution1\Composite\bin\Debug\Composite.exe.config
+E:\C#\Solution1\Composite\bin\Debug\Composite.exe
+E:\C#\Solution1\Composite\bin\Debug\Composite.pdb
+E:\C#\Solution1\Composite\obj\Debug\Composite.csprojAssemblyReference.cache
+E:\C#\Solution1\Composite\obj\Debug\Composite.csproj.CoreCompileInputs.cache
+E:\C#\Solution1\Composite\obj\Debug\Composite.exe
+E:\C#\Solution1\Composite\obj\Debug\Composite.pdb

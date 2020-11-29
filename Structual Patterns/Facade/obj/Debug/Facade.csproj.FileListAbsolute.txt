@@ -1,0 +1,7 @@
+E:\C#\Solution1\Facade\bin\Debug\Facade.exe.config
+E:\C#\Solution1\Facade\bin\Debug\Facade.exe
+E:\C#\Solution1\Facade\bin\Debug\Facade.pdb
+E:\C#\Solution1\Facade\obj\Debug\Facade.csprojAssemblyReference.cache
+E:\C#\Solution1\Facade\obj\Debug\Facade.csproj.CoreCompileInputs.cache
+E:\C#\Solution1\Facade\obj\Debug\Facade.exe
+E:\C#\Solution1\Facade\obj\Debug\Facade.pdb
