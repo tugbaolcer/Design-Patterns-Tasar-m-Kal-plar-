@@ -25,7 +25,7 @@ Sınıflar arasındaki ilişkileri belirleme önerileri sunar, nasıl türetilme
 *Flyweight (Sinek Siklet)
 *Proxy (Vekil)
 
-#Davranışsal(Behavioral) Tasarım Desenleri
+#Davranışsal(Behavioral) Tasarım Desenleri : 
 Soruna göre nesneler arası ortak haberleşmeyi en iyi şekilde kurmamıza öneriler sunar.
 
 *Chain of Responsibility (Sorumluluk Zinciri)
