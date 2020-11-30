@@ -30,8 +30,6 @@ Soruna göre nesneler arası ortak haberleşmeyi en iyi şekilde kurmamıza öne
 
 *Chain of Responsibility (Sorumluluk Zinciri)
 *Command (Komut)
-*Interpreter (Yorumlayıcı)
-*Iterator (Tekrarlayıcı)
 *Mediator (Arabulucu)
 *Observer (Gözlemci)
 *State (Durum)
