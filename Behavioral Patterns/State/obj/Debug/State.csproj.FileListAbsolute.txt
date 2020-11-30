@@ -1,0 +1,7 @@
+E:\C#\Solution1\State\bin\Debug\State.exe.config
+E:\C#\Solution1\State\bin\Debug\State.exe
+E:\C#\Solution1\State\bin\Debug\State.pdb
+E:\C#\Solution1\State\obj\Debug\State.csprojAssemblyReference.cache
+E:\C#\Solution1\State\obj\Debug\State.csproj.CoreCompileInputs.cache
+E:\C#\Solution1\State\obj\Debug\State.exe
+E:\C#\Solution1\State\obj\Debug\State.pdb
