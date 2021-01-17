@@ -1,0 +1,7 @@
+E:\C#\Design Patterns\IterationDesignExample\bin\Debug\IterationDesignExample.exe.config
+E:\C#\Design Patterns\IterationDesignExample\bin\Debug\IterationDesignExample.exe
+E:\C#\Design Patterns\IterationDesignExample\bin\Debug\IterationDesignExample.pdb
+E:\C#\Design Patterns\IterationDesignExample\obj\Debug\IterationDesignExample.csprojAssemblyReference.cache
+E:\C#\Design Patterns\IterationDesignExample\obj\Debug\IterationDesignExample.csproj.CoreCompileInputs.cache
+E:\C#\Design Patterns\IterationDesignExample\obj\Debug\IterationDesignExample.exe
+E:\C#\Design Patterns\IterationDesignExample\obj\Debug\IterationDesignExample.pdb
