@@ -36,4 +36,5 @@ Soruna göre nesneler arası ortak haberleşmeyi en iyi şekilde kurmamıza öne
 *Strategy (Strateji)
 *Template Method (Şablon Metodu)
 *Visitor (Ziyaretçi)
+*Iteration
 
